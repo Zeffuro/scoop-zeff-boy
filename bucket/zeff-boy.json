@@ -1,5 +1,5 @@
 {
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "A Game Boy, Game Boy Color, and NES emulator written in Rust",
   "homepage": "https://github.com/Zeffuro/zeff-boy",
   "license": {
@@ -8,8 +8,8 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Zeffuro/zeff-boy/releases/download/v0.4.0/zeff-boy-v0.4.0-x86_64-pc-windows-msvc.zip",
-      "hash": "8bcb2eb44b4d05a5608e6ec0e5347888bb4575b29cafa1dbcac919256a0d33ab"
+      "url": "https://github.com/Zeffuro/zeff-boy/releases/download/v0.4.1/zeff-boy-v0.4.1-x86_64-pc-windows-msvc.zip",
+      "hash": "dadbae0db6a0b73ceb66626f6d5a88680843de9fce02eb272ed856797fdcb850"
     }
   },
   "bin": "zeff-boy.exe",
